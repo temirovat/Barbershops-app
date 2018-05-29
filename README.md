@@ -4,6 +4,6 @@
 
 # Description
 
-→ Add your favorite barbershops. Fill the adress field to see it on map. Write reviews and share them to your friends. Use searchbar to quick find barbershop.
+→ Add your favorite barbershops. Fill the adress field to see it on map. Upload ur own photos of barbershops. Write reviews and share them to your friends. Use searchbar to quick find barbershop.
 
 ![](https://github.com/temirovat/Barbershops-app/blob/master/barber.gif?raw=true)
